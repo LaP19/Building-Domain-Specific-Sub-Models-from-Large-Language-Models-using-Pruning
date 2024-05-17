@@ -8,7 +8,7 @@ Acknowledging the benefits of Wanda pruning method, which prunes LLMs based on b
 <img src="https://user-images.githubusercontent.com/20168304/273351964-53c3807e-3453-49c5-b855-b620b1026466.png" width=100% height=100% 
 class="center">
 </p>
-<p align="center"><i>Image sourced from Wanda repository.</i></p>
+<p align="center"><i>Image sourced from [Wanda](https://github.com/locuslab/wanda.git) repository.</i></p>
 
 The goal of this project is to focus on the impact of calibration data in the pruing process. Specifically understanding whether pruning using domain-specific calibration sampels leads to domain-specific sub-models. Or anyway if it has an impact on the performance of these sub-models on specific domains.
 
